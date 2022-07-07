@@ -1,0 +1,37 @@
+body{
+    background-color: #1f2937;
+
+}
+h1 {
+    color: #F9FAF8;
+    size: 48px;
+    font-weight: bolder;
+    padding-top: 10rem;
+}
+
+h3{
+    color: #F9FAF8;
+    right: 10px;
+    position: absolute;
+    padding-bottom: 5rem;
+    right: 30rem;
+}
+
+h5{
+    position: absolute;
+    right: 38rem;
+    top: 5px;
+    size: 18px;
+    color: #E5E7EB;
+}
+
+.headertwo{
+    position: absolute;
+    right: 30rem;
+    top: 5px;   
+}
+.headerthree{
+    position: absolute;
+    right: 22rem;
+    top: 5px;
+}
